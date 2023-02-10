@@ -1,6 +1,7 @@
 # Functypes
 
 Converts interface methods to standalone function types.
+This is just a proof of concept.
 
 Example:
 
